@@ -14,8 +14,7 @@ Step 2. Add the dependency
 	dependencies {
 	        compile 'com.github.pdliugithub:CrashSample:v1.0'
 	}
-Copy
-Share this release:
+
 
 [![](https://jitpack.io/v/pdliugithub/CrashSample.svg)](https://jitpack.io/#pdliugithub/CrashSample)
 
