@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crash</string>
+    <string name="app_crash_dialog_title">错误日志</string>
+</resources>
