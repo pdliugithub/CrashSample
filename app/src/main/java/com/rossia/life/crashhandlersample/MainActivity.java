@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void start(View view){
+    public void start(View view) {
         CrashHandler.getInstance().startHandler(this);
         CrashHandler.getInstance().setDebug(true);
         startActivity(new Intent(this, CrashActivity.class));
